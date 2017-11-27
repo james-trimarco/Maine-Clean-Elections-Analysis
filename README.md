@@ -5,4 +5,4 @@ The script "Which senate candidates changed status.R" sorts through the data abo
 
 The script "MCEA particaption over time by party.R" contains some of the same code. It sorts through the list of candidates, groups them by party, and visualizes the percentage of candidates in each party that ran publicly funded campaigns each year. 
 
-The published story that resulted from this work is [here] (http://www.yesmagazine.org/issues/50-solutions/where-citizens-can-run-for-office-without-big-money-and-win-20161104).
+The published story that resulted from this work is [here](http://www.yesmagazine.org/issues/50-solutions/where-citizens-can-run-for-office-without-big-money-and-win-20161104).
